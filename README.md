@@ -21,6 +21,7 @@ python main.py --src imgs/test6.jpg --dst imgs/test7.jpg --out results/output6_7
 
 ## Install
 ### Requirements
+* `conda install -c conda-forge dlib`
 * `pip install -r requirements.txt`
 * OpenCV 3: `conda install opencv` (If you have conda/anaconda)
 
